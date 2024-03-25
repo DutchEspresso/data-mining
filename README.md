@@ -1,3 +1,3 @@
 # data-science
-Collection of code for DDDM Minor @ HAN
+Code for Data Mining Course of DDDM Minor @ HAN
 Made with bits and <3
